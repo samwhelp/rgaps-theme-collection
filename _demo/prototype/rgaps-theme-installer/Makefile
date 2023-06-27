@@ -58,6 +58,21 @@ help:
 	@echo
 	@echo '	$$ make remove-rgaps-line-nobuttons'
 	@echo
+	@echo
+	@echo
+	@echo
+	@echo '	$$ make config-rgaps-black'
+	@echo
+	@echo '	$$ make config-rgaps-black-nobuttons'
+	@echo
+	@echo '	$$ make config-rgaps-blend'
+	@echo
+	@echo '	$$ make config-rgaps-blend-nobuttons'
+	@echo
+	@echo '	$$ make config-rgaps-line'
+	@echo
+	@echo '	$$ make config-rgaps-line-nobuttons'
+	@echo
 
 .PHONY: help
 
@@ -137,6 +152,38 @@ remove-rgaps-line:
 remove-rgaps-line-nobuttons:
 	@$(THE_PLAN_DIR_PATH)/remove-rgaps-line-nobuttons.sh
 .PHONY: remove-rgaps-line-nobuttons
+
+
+
+
+config-rgaps-black:
+	@$(THE_PLAN_DIR_PATH)/config-rgaps-black.sh
+.PHONY: config-rgaps-black
+
+
+config-rgaps-black-nobuttons:
+	@$(THE_PLAN_DIR_PATH)/config-rgaps-black-nobuttons.sh
+.PHONY: config-rgaps-black-nobuttons
+
+
+config-rgaps-blend:
+	@$(THE_PLAN_DIR_PATH)/config-rgaps-blend.sh
+.PHONY: config-rgaps-blend
+
+
+config-rgaps-blend-nobuttons:
+	@$(THE_PLAN_DIR_PATH)/config-rgaps-blend-nobuttons.sh
+.PHONY: config-rgaps-blend-nobuttons
+
+
+config-rgaps-line:
+	@$(THE_PLAN_DIR_PATH)/config-rgaps-line.sh
+.PHONY: config-rgaps-line
+
+
+config-rgaps-line-nobuttons:
+	@$(THE_PLAN_DIR_PATH)/config-rgaps-line-nobuttons.sh
+.PHONY: config-rgaps-line-nobuttons
 
 
 
