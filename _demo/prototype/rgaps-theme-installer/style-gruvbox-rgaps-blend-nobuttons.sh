@@ -54,6 +54,9 @@ mod_config_xfwm_theme_rgaps_blend_nobuttons () {
 mod_config () {
 
 	mod_config_xfwm_theme_rgaps_blend_nobuttons
+	mod_config_gtk_theme_gruvbox
+	mod_config_icon_theme_gruvbox_dark
+	mod_config_cursor_theme_breeze
 
 	return 0
 
