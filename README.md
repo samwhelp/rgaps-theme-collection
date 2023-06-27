@@ -114,3 +114,15 @@ tar xf "rgaps-theme-collection-rgaps-line-nobuttons.tar.gz"
 cp -rf "./rgaps-theme-collection-rgaps-line-nobuttons/." "${HOME}/.themes/RGapsLineNoButtons"
 ```
 
+
+## RGaps
+
+run to download and install all [RGaps](https://github.com/samwhelp/rgaps-theme-collection/tree/all)
+
+``` sh
+wget -c "https://github.com/samwhelp/rgaps-theme-collection/archive/refs/heads/all.tar.gz" -O "rgaps-theme-collection-all.tar.gz"
+
+tar xf rgaps-theme-collection-all.tar.gz
+
+cp -rf "./rgaps-theme-collection-all/collection/xfwm-theme/themes/." "${HOME}/.themes"
+```
