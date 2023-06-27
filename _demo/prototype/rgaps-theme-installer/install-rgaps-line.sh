@@ -1,0 +1,93 @@
+#!/usr/bin/env bash
+
+
+################################################################################
+### Head: Note
+##
+
+## * https://github.com/samwhelp/skel-project-plan/blob/gh-pages/demo/sh/project/bin/install.sh
+
+##
+### Tail: Note
+################################################################################
+
+
+################################################################################
+### Head: Init
+##
+
+THE_BASE_DIR_PATH="$(cd -- "$(dirname -- "$0")" ; pwd)"
+THE_PLAN_DIR_PATH="${THE_BASE_DIR_PATH}"
+THE_CONFIG_FILE_PATH="${THE_PLAN_DIR_PATH}/config.sh"
+THE_UTIL_FILE_PATH="${THE_PLAN_DIR_PATH}/util.sh"
+
+source "${THE_CONFIG_FILE_PATH}"
+source "${THE_UTIL_FILE_PATH}"
+
+##
+### Tail: Init
+################################################################################
+
+
+
+
+################################################################################
+### Head: Model / Install / rgaps-line
+##
+
+mod_install_rgaps_line () {
+
+	##
+	## * [rgaps-line](https://github.com/samwhelp/rgaps-theme-collection/tree/rgaps-line)
+	##
+
+	mkdir -p "${HOME}/.cache/manual-install/rgaps-line"
+
+	wget -c "https://github.com/samwhelp/rgaps-theme-collection/archive/refs/heads/rgaps-line.tar.gz" -O "${HOME}/.cache/manual-install/rgaps-line/rgaps-theme-collection-rgaps-line.tar.gz"
+
+	tar xf "${HOME}/.cache/manual-install/rgaps-line/rgaps-theme-collection-rgaps-line.tar.gz" -C "${HOME}/.cache/manual-install/rgaps-line"
+
+	cp -rf "${HOME}/.cache/manual-install/rgaps-line/rgaps-theme-collection-rgaps-line/." "${HOME}/.themes/RGapsLine"
+
+}
+
+
+##
+### Tail: Model / Install / rgaps-line
+################################################################################
+
+
+################################################################################
+### Head: Model / Install
+##
+
+mod_install () {
+
+	mod_install_rgaps_line
+
+	return 0
+
+}
+
+##
+### Tail: Model / Install
+################################################################################
+
+
+
+
+################################################################################
+### Head: Main
+##
+
+__main__ () {
+
+	mod_install
+
+}
+
+__main__
+
+##
+### Tail: Main
+################################################################################
