@@ -24,6 +24,9 @@ help:
 	@echo
 	@echo '	$$ make prepare'
 	@echo
+	@echo
+	@echo
+	@echo
 	@echo '	$$ make install-all'
 	@echo
 	@echo '	$$ make install-rgaps-black'
@@ -38,7 +41,22 @@ help:
 	@echo
 	@echo '	$$ make install-rgaps-line-nobuttons'
 	@echo
+	@echo
+	@echo
+	@echo
 	@echo '	$$ make remove-all'
+	@echo
+	@echo '	$$ make remove-rgaps-black'
+	@echo
+	@echo '	$$ make remove-rgaps-black-nobuttons'
+	@echo
+	@echo '	$$ make remove-rgaps-blend'
+	@echo
+	@echo '	$$ make remove-rgaps-blend-nobuttons'
+	@echo
+	@echo '	$$ make remove-rgaps-line'
+	@echo
+	@echo '	$$ make remove-rgaps-line-nobuttons'
 	@echo
 
 .PHONY: help

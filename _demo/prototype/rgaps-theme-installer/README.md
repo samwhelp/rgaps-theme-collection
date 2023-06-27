@@ -31,6 +31,9 @@ Example:
 
 	$ make prepare
 
+
+
+
 	$ make install-all
 
 	$ make install-rgaps-black
@@ -45,6 +48,22 @@ Example:
 
 	$ make install-rgaps-line-nobuttons
 
+
+
+
 	$ make remove-all
+
+	$ make remove-rgaps-black
+
+	$ make remove-rgaps-black-nobuttons
+
+	$ make remove-rgaps-blend
+
+	$ make remove-rgaps-blend-nobuttons
+
+	$ make remove-rgaps-line
+
+	$ make remove-rgaps-line-nobuttons
+
 ```
 
