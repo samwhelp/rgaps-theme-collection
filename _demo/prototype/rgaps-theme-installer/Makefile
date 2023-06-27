@@ -73,6 +73,21 @@ help:
 	@echo
 	@echo '	$$ make config-rgaps-line-nobuttons'
 	@echo
+	@echo
+	@echo
+	@echo
+	@echo '	$$ make style-gruvbox-rgaps-black'
+	@echo
+	@echo '	$$ make style-gruvbox-rgaps-black-nobuttons'
+	@echo
+	@echo '	$$ make style-gruvbox-rgaps-blend'
+	@echo
+	@echo '	$$ make style-gruvbox-rgaps-blend-nobuttons'
+	@echo
+	@echo '	$$ make style-gruvbox-rgaps-line'
+	@echo
+	@echo '	$$ make style-gruvbox-rgaps-line-nobuttons'
+	@echo
 
 .PHONY: help
 
@@ -184,6 +199,38 @@ config-rgaps-line:
 config-rgaps-line-nobuttons:
 	@$(THE_PLAN_DIR_PATH)/config-rgaps-line-nobuttons.sh
 .PHONY: config-rgaps-line-nobuttons
+
+
+
+
+style-gruvbox-rgaps-black:
+	@$(THE_PLAN_DIR_PATH)/style-gruvbox-rgaps-black.sh
+.PHONY: style-gruvbox-rgaps-black
+
+
+style-gruvbox-rgaps-black-nobuttons:
+	@$(THE_PLAN_DIR_PATH)/style-gruvbox-rgaps-black-nobuttons.sh
+.PHONY: style-gruvbox-rgaps-black-nobuttons
+
+
+style-gruvbox-rgaps-blend:
+	@$(THE_PLAN_DIR_PATH)/style-gruvbox-rgaps-blend.sh
+.PHONY: style-gruvbox-rgaps-blend
+
+
+style-gruvbox-rgaps-blend-nobuttons:
+	@$(THE_PLAN_DIR_PATH)/style-gruvbox-rgaps-blend-nobuttons.sh
+.PHONY: style-gruvbox-rgaps-blend-nobuttons
+
+
+style-gruvbox-rgaps-line:
+	@$(THE_PLAN_DIR_PATH)/style-gruvbox-rgaps-line.sh
+.PHONY: style-gruvbox-rgaps-line
+
+
+style-gruvbox-rgaps-line-nobuttons:
+	@$(THE_PLAN_DIR_PATH)/style-gruvbox-rgaps-line-nobuttons.sh
+.PHONY: style-gruvbox-rgaps-line-nobuttons
 
 
 
