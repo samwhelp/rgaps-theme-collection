@@ -14,8 +14,13 @@
 ##
 
 ##
+## ## clone.sh
+##
+## * [clone.sh](https://github.com/samwhelp/rgaps-theme-collection/blob/gh-pages/_demo/clone.sh)
+##
 ## ``` sh
-## wget -c 
+## wget -c https://raw.githubusercontent.com/samwhelp/rgaps-theme-collection/gh-pages/_demo/clone.sh
+## sh clone.sh
 ## ```
 ##
 
