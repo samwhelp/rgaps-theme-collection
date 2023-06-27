@@ -1,13 +1,13 @@
 
 
-# rgaps-theme-collection
+# rgaps-theme-collection-all
 
-| [rgaps-theme-collection](https://samwhelp.github.io/rgaps-theme-collection/) | [GitHub](https://github.com/samwhelp/rgaps-theme-collection) |
+| [rgaps-theme-collection](https://samwhelp.github.io/rgaps-theme-collection/) | [GitHub](https://github.com/samwhelp/rgaps-theme-collection/tree/all) |
 
 
-## RGaps
+## Xfwm4 Themes / RGaps
 
-| xfwm-theme |
+| RGaps |
 | --- |
 | [RGapsBlack](collection/xfwm-theme/themes/RGapsBlack) |
 | [RGapsBlackNoButtons](collection/xfwm-theme/themes/RGapsBlackNoButtons) |
@@ -24,8 +24,8 @@
 
 ## Download and Install
 
-* [by git clone](by-git-clone)
-* [by wget download](by-wget-download)
+* [by git clone](#by-git-clone)
+* [by wget download](#by-wget-download)
 
 
 ### by git clone
