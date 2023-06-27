@@ -9,7 +9,7 @@
 
 * Xfwm4 Theme / RGaps / [Download and Install](#xfwm4-theme--rgaps)
 * RGaps / [Style](#style)
-
+* RGaps / [Helper](#helper)
 
 ## Source
 
@@ -175,3 +175,10 @@ xfconf-query -c "xsettings" -p "/Net/IconThemeName" -s "Gruvbox-Dark"
 xfconf-query -c "xsettings" -p "/Gtk/CursorThemeName" -s "breeze_cursors"
 xfconf-query -c "xsettings" -p "/Gtk/CursorThemeSize" -s "24"
 ```
+
+
+## Helper
+
+| Helper |
+| --- |
+| [rgaps-theme-installer](https://github.com/samwhelp/rgaps-theme-collection/tree/gh-pages/_demo/prototype/rgaps-theme-installer) |
