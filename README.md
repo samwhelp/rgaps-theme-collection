@@ -25,7 +25,6 @@
 | [rgaps-line-nobuttons](https://github.com/samwhelp/rgaps-theme-collection/tree/rgaps-line-nobuttons) |
 
 
-
 ## Xfwm4 Theme / RGaps
 
 | RGaps |
@@ -40,17 +39,78 @@
 
 ## RGapsBlack
 
+run to download and install [RGapsBlack](https://github.com/samwhelp/rgaps-theme-collection/tree/rgaps-black)
+
+``` sh
+wget -c "https://github.com/samwhelp/rgaps-theme-collection/archive/refs/heads/rgaps-black.tar.gz" -O "rgaps-theme-collection-rgaps-black.tar.gz"
+
+tar xf "rgaps-theme-collection-rgaps-black.tar.gz"
+
+cp -rf "./rgaps-theme-collection-rgaps-black/." "${HOME}/.themes/RGapsBlack"
+```
+
 
 ## RGapsBlackNoButtons
+
+run to download and install [RGapsBlackNoButtons](https://github.com/samwhelp/rgaps-theme-collection/tree/rgaps-black-nobuttons)
+
+``` sh
+wget -c "https://github.com/samwhelp/rgaps-theme-collection/archive/refs/heads/rgaps-black-nobuttons.tar.gz" -O "rgaps-theme-collection-rgaps-black-nobuttons.tar.gz"
+
+tar xf "rgaps-theme-collection-rgaps-black-nobuttons.tar.gz"
+
+cp -rf "./rgaps-theme-collection-rgaps-black-nobuttons/." "${HOME}/.themes/RGapsBlackNoButtons"
+```
 
 
 ## RGapsBlend
 
+run to download and install [RGapsBlend](https://github.com/samwhelp/rgaps-theme-collection/tree/rgaps-blend)
+
+``` sh
+wget -c "https://github.com/samwhelp/rgaps-theme-collection/archive/refs/heads/rgaps-blend.tar.gz" -O "rgaps-theme-collection-rgaps-blend.tar.gz"
+
+tar xf "rgaps-theme-collection-rgaps-blend.tar.gz"
+
+cp -rf "./rgaps-theme-collection-rgaps-blend/." "${HOME}/.themes/RGapsBlend"
+```
+
 
 ## RGapsBlendNoButtons
+
+run to download and install [RGapsBlendNoButtons](https://github.com/samwhelp/rgaps-theme-collection/tree/rgaps-blend-nobuttons)
+
+``` sh
+wget -c "https://github.com/samwhelp/rgaps-theme-collection/archive/refs/heads/rgaps-blend-nobuttons.tar.gz" -O "rgaps-theme-collection-rgaps-blend-nobuttons.tar.gz"
+
+tar xf "rgaps-theme-collection-rgaps-blend-nobuttons.tar.gz"
+
+cp -rf "./rgaps-theme-collection-rgaps-blend-nobuttons/." "${HOME}/.themes/RGapsBlendNoButtons"
+```
 
 
 ## RGapsLine
 
+run to download and install [RGapsLine](https://github.com/samwhelp/rgaps-theme-collection/tree/rgaps-line)
+
+``` sh
+wget -c "https://github.com/samwhelp/rgaps-theme-collection/archive/refs/heads/rgaps-line.tar.gz" -O "rgaps-theme-collection-rgaps-line.tar.gz"
+
+tar xf "rgaps-theme-collection-rgaps-line.tar.gz"
+
+cp -rf "./rgaps-theme-collection-rgaps-line/." "${HOME}/.themes/RGapsLine"
+```
+
 
 ## RGapsLineNoButtons
+
+run to download and install [RGapsLineNoButtons](https://github.com/samwhelp/rgaps-theme-collection/tree/rgaps-black)
+
+``` sh
+wget -c "https://github.com/samwhelp/rgaps-theme-collection/archive/refs/heads/rgaps-line-nobuttons.tar.gz" -O "rgaps-theme-collection-rgaps-line-nobuttons.tar.gz"
+
+tar xf "rgaps-theme-collection-rgaps-line-nobuttons.tar.gz"
+
+cp -rf "./rgaps-theme-collection-rgaps-line-nobuttons/." "${HOME}/.themes/RGapsLineNoButtons"
+```
+
