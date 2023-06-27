@@ -148,8 +148,19 @@ cp -rf "./rgaps-theme-collection-all/collection/xfwm-theme/themes/." "${HOME}/.t
 
 ### config-xfwm-theme-RGapsBlendNoButtons
 
+``` sh
+xfconf-query -c "xfwm4" -p "/general/theme" -s "RGapsBlendNoButtons"
+```
 
 ### config-gtk-theme-Gruvbox
 
+``` sh
+xfconf-query -c "xsettings" -p "/Net/ThemeName" -s "Gruvbox"
+```
+
 
 ### config-icon-theme-Gruvbox-Dark
+
+``` sh
+xfconf-query -c "xsettings" -p "/Net/IconThemeName" -s "Gruvbox-Dark"
+```
