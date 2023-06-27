@@ -65,5 +65,36 @@ Example:
 
 	$ make remove-rgaps-line-nobuttons
 
+
+
+
+	$ make config-rgaps-black
+
+	$ make config-rgaps-black-nobuttons
+
+	$ make config-rgaps-blend
+
+	$ make config-rgaps-blend-nobuttons
+
+	$ make config-rgaps-line
+
+	$ make config-rgaps-line-nobuttons
+
+
+
+
+	$ make style-gruvbox-rgaps-black
+
+	$ make style-gruvbox-rgaps-black-nobuttons
+
+	$ make style-gruvbox-rgaps-blend
+
+	$ make style-gruvbox-rgaps-blend-nobuttons
+
+	$ make style-gruvbox-rgaps-line
+
+	$ make style-gruvbox-rgaps-line-nobuttons
+
+
 ```
 
