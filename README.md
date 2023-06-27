@@ -136,6 +136,8 @@ cp -rf "./rgaps-theme-collection-all/collection/xfwm-theme/themes/." "${HOME}/.t
 
 ## Style
 
+* Xfce / Docs / [Xfconf-query](https://docs.xfce.org/xfce/xfconf/xfconf-query)
+* man [xfconf-query](https://manpages.debian.org/testing/xfconf/xfconf-query.1.en.html)
 
 ## RGapsBlendNoButtons Gruvbox
 
