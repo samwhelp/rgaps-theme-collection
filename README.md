@@ -13,7 +13,7 @@
 
 ## Source
 
-* www.gnome-look.org / XFWM4 Themes / [RGaps](https://www.gnome-look.org/p/1174081/)
+* www.gnome-look.org / XFCE/XFWM4 Themes / [RGaps](https://www.gnome-look.org/p/1174081/)
 
 
 ## Branch
