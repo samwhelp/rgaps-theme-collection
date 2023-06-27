@@ -4,6 +4,9 @@
 
 | [rgaps-theme-collection](https://samwhelp.github.io/rgaps-theme-collection/) | [GitHub](https://github.com/samwhelp/rgaps-theme-collection) |
 
+* Xfwm4 Theme / RGaps / [Download and Install](#xfwm4-theme--rgaps)
+* RGaps / [Style](#style)
+
 
 ## Source
 
@@ -126,3 +129,6 @@ tar xf rgaps-theme-collection-all.tar.gz
 
 cp -rf "./rgaps-theme-collection-all/collection/xfwm-theme/themes/." "${HOME}/.themes"
 ```
+
+
+## Style
