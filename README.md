@@ -143,7 +143,7 @@ cp -rf "./rgaps-theme-collection-all/collection/xfwm-theme/themes/." "${HOME}/.t
 | --- | --- | --- |
 | xfwm-theme | [RGapsBlendNoButtons](#config-xfwm-theme-rgapsblendnobuttons) | [~/.themes/RGapsBlendNoButtons](https://github.com/samwhelp/rgaps-theme-collection/tree/rgaps-blend-nobuttons) |
 | gtk-theme | [Gruvbox](#config-gtk-theme-gruvbox) | [~/.themes/Gruvbox](https://github.com/samwhelp/gruvbox-theme-collection/tree/gtk-theme-gruvbox) |
-| gtk-theme | [Gruvbox-Dark](#config-icon-theme-gruvbox-dark) | [~/.icons/Gruvbox-Dark](https://github.com/samwhelp/gruvbox-theme-collection/tree/icon-theme-gruvbox-dark) |
+| icon-theme | [Gruvbox-Dark](#config-icon-theme-gruvbox-dark) | [~/.icons/Gruvbox-Dark](https://github.com/samwhelp/gruvbox-theme-collection/tree/icon-theme-gruvbox-dark) |
 
 
 ### config-xfwm-theme-RGapsBlendNoButtons
