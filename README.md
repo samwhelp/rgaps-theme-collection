@@ -12,7 +12,7 @@
 
 ## Branch
 
-| branch |
+| Branch |
 | --- |
 | [gh-pages](https://github.com/samwhelp/rgaps-theme-collection/tree/gh-pages) |
 | [all](https://github.com/samwhelp/rgaps-theme-collection/tree/all) |
@@ -30,12 +30,12 @@
 
 | RGaps |
 | --- |
-| [RGapsBlack](#RGapsBlack) | [GitHub](https://github.com/samwhelp/rgaps-theme-collection/tree/rgaps-black) |
-| [RGapsBlackNoButtons](#RGapsBlackNoButtons) | [GitHub](https://github.com/samwhelp/rgaps-theme-collection/tree/rgaps-black-nobuttons) |
-| [RGapsBlend](#RGapsBlend) | [GitHub](https://github.com/samwhelp/rgaps-theme-collection/tree/rgaps-blend) |
-| [RGapsBlendNoButtons](#RGapsBlendNoButtons) | [GitHub](https://github.com/samwhelp/rgaps-theme-collection/tree/rgaps-blend-nobuttons) |
-| [RGapsLine](#RGapsLine) | [GitHub](https://github.com/samwhelp/rgaps-theme-collection/tree/rgaps-line) |
-| [RGapsLineNoButtons](#RGapsLineNoButtons) | [GitHub](https://github.com/samwhelp/rgaps-theme-collection/tree/rgaps-line-nobuttons) |
+| [RGapsBlack](#rgapsblack) | [GitHub](https://github.com/samwhelp/rgaps-theme-collection/tree/rgaps-black) |
+| [RGapsBlackNoButtons](#rgapsblacknobuttons) | [GitHub](https://github.com/samwhelp/rgaps-theme-collection/tree/rgaps-black-nobuttons) |
+| [RGapsBlend](#rgapsblend) | [GitHub](https://github.com/samwhelp/rgaps-theme-collection/tree/rgaps-blend) |
+| [RGapsBlendNoButtons](#rgapsblendnobuttons) | [GitHub](https://github.com/samwhelp/rgaps-theme-collection/tree/rgaps-blend-nobuttons) |
+| [RGapsLine](#rgapsline) | [GitHub](https://github.com/samwhelp/rgaps-theme-collection/tree/rgaps-line) |
+| [RGapsLineNoButtons](#rgapslinenobuttons) | [GitHub](https://github.com/samwhelp/rgaps-theme-collection/tree/rgaps-line-nobuttons) |
 
 
 ## RGapsBlack
