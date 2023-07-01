@@ -33,8 +33,8 @@
 
 ## Xfwm4 Theme / RGaps
 
-| RGaps |
-| --- |
+| RGaps | GitHub |
+| --- | --- |
 | [RGapsBlack](#rgapsblack) | [GitHub](https://github.com/samwhelp/rgaps-theme-collection/tree/rgaps-black) |
 | [RGapsBlackNoButtons](#rgapsblacknobuttons) | [GitHub](https://github.com/samwhelp/rgaps-theme-collection/tree/rgaps-black-nobuttons) |
 | [RGapsBlend](#rgapsblend) | [GitHub](https://github.com/samwhelp/rgaps-theme-collection/tree/rgaps-blend) |
