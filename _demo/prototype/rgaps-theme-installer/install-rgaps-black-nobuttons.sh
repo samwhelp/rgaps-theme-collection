@@ -47,6 +47,8 @@ mod_install_rgaps_black_nobuttons () {
 
 	tar xf "${HOME}/.cache/manual-install/rgaps-black-nobuttons/rgaps-theme-collection-rgaps-black-nobuttons.tar.gz" -C "${HOME}/.cache/manual-install/rgaps-black-nobuttons"
 
+	mkdir -p "${HOME}/.themes/RGapsBlackNoButtons"
+
 	cp -rf "${HOME}/.cache/manual-install/rgaps-black-nobuttons/rgaps-theme-collection-rgaps-black-nobuttons/." "${HOME}/.themes/RGapsBlackNoButtons"
 
 }

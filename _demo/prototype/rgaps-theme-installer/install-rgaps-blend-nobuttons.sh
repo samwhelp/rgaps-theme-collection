@@ -47,6 +47,8 @@ mod_install_rgaps_blend_nobuttons () {
 
 	tar xf "${HOME}/.cache/manual-install/rgaps-blend-nobuttons/rgaps-theme-collection-rgaps-blend-nobuttons.tar.gz" -C "${HOME}/.cache/manual-install/rgaps-blend-nobuttons"
 
+	mkdir -p "${HOME}/.themes/RGapsBlendNoButtons"
+
 	cp -rf "${HOME}/.cache/manual-install/rgaps-blend-nobuttons/rgaps-theme-collection-rgaps-blend-nobuttons/." "${HOME}/.themes/RGapsBlendNoButtons"
 
 }

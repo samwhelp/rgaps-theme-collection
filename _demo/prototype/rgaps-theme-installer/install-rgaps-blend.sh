@@ -47,6 +47,8 @@ mod_install_rgaps_blend () {
 
 	tar xf "${HOME}/.cache/manual-install/rgaps-blend/rgaps-theme-collection-rgaps-blend.tar.gz" -C "${HOME}/.cache/manual-install/rgaps-blend"
 
+	mkdir -p "${HOME}/.themes/RGapsBlend"
+
 	cp -rf "${HOME}/.cache/manual-install/rgaps-blend/rgaps-theme-collection-rgaps-blend/." "${HOME}/.themes/RGapsBlend"
 
 }

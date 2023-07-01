@@ -47,6 +47,8 @@ mod_install_rgaps_line_nobuttons () {
 
 	tar xf "${HOME}/.cache/manual-install/rgaps-line-nobuttons/rgaps-theme-collection-rgaps-line-nobuttons.tar.gz" -C "${HOME}/.cache/manual-install/rgaps-line-nobuttons"
 
+	mkdir -p "${HOME}/.themes/RGapsLineNoButtons"
+
 	cp -rf "${HOME}/.cache/manual-install/rgaps-line-nobuttons/rgaps-theme-collection-rgaps-line-nobuttons/." "${HOME}/.themes/RGapsLineNoButtons"
 
 }

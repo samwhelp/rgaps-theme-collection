@@ -47,6 +47,8 @@ mod_install_rgaps_all () {
 
 	tar xf "${HOME}/.cache/manual-install/rgaps-all/rgaps-theme-collection-all.tar.gz" -C "${HOME}/.cache/manual-install/rgaps-all"
 
+	mkdir -p "${HOME}/.themes"
+
 	cp -rf "${HOME}/.cache/manual-install/rgaps-all/rgaps-theme-collection-all/collection/xfwm-theme/themes/." "${HOME}/.themes"
 
 }

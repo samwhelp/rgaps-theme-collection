@@ -47,6 +47,8 @@ mod_install_rgaps_black () {
 
 	tar xf "${HOME}/.cache/manual-install/rgaps-black/rgaps-theme-collection-rgaps-black.tar.gz" -C "${HOME}/.cache/manual-install/rgaps-black"
 
+	mkdir -p "${HOME}/.themes/RGapsBlack"
+
 	cp -rf "${HOME}/.cache/manual-install/rgaps-black/rgaps-theme-collection-rgaps-black/." "${HOME}/.themes/RGapsBlack"
 
 }

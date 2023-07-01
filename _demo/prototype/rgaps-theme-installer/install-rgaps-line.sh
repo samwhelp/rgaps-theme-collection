@@ -47,6 +47,8 @@ mod_install_rgaps_line () {
 
 	tar xf "${HOME}/.cache/manual-install/rgaps-line/rgaps-theme-collection-rgaps-line.tar.gz" -C "${HOME}/.cache/manual-install/rgaps-line"
 
+	mkdir -p "${HOME}/.themes/RGapsLine"
+
 	cp -rf "${HOME}/.cache/manual-install/rgaps-line/rgaps-theme-collection-rgaps-line/." "${HOME}/.themes/RGapsLine"
 
 }
